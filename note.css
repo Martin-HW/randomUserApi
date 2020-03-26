@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+button {
+  width: 200px;
+  padding: 15px 0px;
+  border-radius: 50px;
+  background-color: red;
+  color: white;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 300;
+  margin-left: 600px;
+  margin-bottom: 60px;
+}
+
+img {
+  width: 380px;
+  height: 380px;
+  border-radius: 50%;
+  margin-left: 520px;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  color: green;
+  margin-left: 550px;
+}
+
+.flex {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+}
